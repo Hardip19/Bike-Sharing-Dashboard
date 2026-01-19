@@ -9,5 +9,5 @@ Features:-
 4) Weather and temporal trends.
 
 Run Locally:-
-pip install -r requirements.txt
+pip install -r requirements.txt  & 
 streamlit run app.py
